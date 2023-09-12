@@ -1,8 +1,8 @@
 $ git log
 commit d739ed1d98fa19de0ed600e70f879f29bbb557b7 (HEAD -> develop-1, origin/develop-1)
+commit d739ed1d98fa19de0ed600e70f879f29bbb557b7 (HEAD -> develop-2)
 Author: Juan Soto Segovia <juan.soto@tsoftlatam.com>
 Date:   Tue Sep 12 12:10:13 2023 -0300
-
     carga nueva rama develop-1 y contenido
-
 commit f5f9a4559db269d0a7250e2bc12f1e0254104dde (origin/main, origin/HEAD, main)
+Author: juan jesus soto <86011516+FraUaMin@users.noreply.github.com>
